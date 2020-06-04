@@ -1,0 +1,27 @@
+{
+  "name": "hapi_cache",
+  "version": "1.0.0",
+  "description": "hapi_cache",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhlt-1007/hapi_cache.git"
+  },
+  "keywords": [
+    "hapi_cache"
+  ],
+  "author": "thanhlt-1007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhlt-1007/hapi_cache/issues"
+  },
+  "homepage": "https://github.com/thanhlt-1007/hapi_cache#readme",
+  "dependencies": {
+    "catbox-redis": "4.1.0",
+    "colors": "^1.4.0",
+    "hapi": "^18.1.0"
+  }
+}
